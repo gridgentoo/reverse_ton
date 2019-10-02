@@ -1,4 +1,6 @@
 # TON Reverse engineering for Enterprise Architect
+reverse engineering - проектирование Архитектуры проекта путем Реверс инжениринга
+https://drive.google.com/drive/folders/1gJf1GLVUnmB5l-t-pViawvKM1FOElPQn
 
 исходные тексты блочейн-платформы TON (Telegram Open Network), с 2017 года развиваемой компанией Telegram Systems LLP  
 
