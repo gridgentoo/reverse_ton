@@ -2,7 +2,7 @@
 reverse engineering - проектирование Архитектуры проекта путем Реверс инжениринга
 https://drive.google.com/drive/folders/1gJf1GLVUnmB5l-t-pViawvKM1FOElPQn
 
-Оригинальный репозитарий TON (Telegram Open Network)
+Оригинальный репозитарий TON (Telegram Open Network)  
 https://github.com/ton-blockchain/ton
 
 исходные тексты блочейн-платформы TON (Telegram Open Network), с 2017 года развиваемой компанией Telegram Systems LLP  
